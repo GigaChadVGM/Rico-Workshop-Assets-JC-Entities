@@ -1,0 +1,21 @@
+{
+  "vehicles": {
+    "cars": {
+      "icon": "assets/JC3/cars/icon.png",
+      "content": {
+        "vistosa": {
+          "name": "Mugello Vistosa",
+          "icon": "assets/JC3/cars/vistosa/icon.png",
+          "desc": "A high-performance sports car with sleek design.",
+          "path": "assets/JC3/editor/entities/jc_vehicles/01_land/v0401_car_mugello_racingsupercar"
+        },
+        "suv": {
+          "name": "Generic SUV",
+          "icon": "assets/JC3/cars/suv/icon.png",
+          "desc": "A versatile SUV suitable for all terrains.",
+          "path": "assets/JC3/editor/entities/jc_vehicles/01_land/v0401_car_generic_suv"
+        }
+      }
+    }
+  }
+}
