@@ -1,1404 +1,1404 @@
 {
   "vehicles": {
     "old": {
-      "icon": "assets/JC3/old/icon.png",
+      "icon": "old/icon.png",
       "content": {
         "weimaraner_w3": {
           "name": "WEIMARANER W3",
-          "icon": "assets/JC3/icons/v0000_car_autostraad_oldjeep.webp",
+          "icon": "icons/v0000_car_autostraad_oldjeep.webp",
           "desc": "",
           "basename": "v0000_car_autostraad_oldjeep",
-          "basepath": "assets/JC3/dlc/bavarium_sea_heist/editor/entities/jc_vehicles/01_land/"
+          "basepath": "dlc/bavarium_sea_heist/editor/entities/jc_vehicles/01_land/"
         },
         "stria_cucciola": {
           "name": "STRIA CUCCIOLA",
-          "icon": "assets/JC3/icons/v0500_car_solar_oldmini.webp",
+          "icon": "icons/v0500_car_solar_oldmini.webp",
           "desc": "",
           "basename": "v0500_car_solar_oldmini",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "stria_infimo_s": {
           "name": "STRIA INFIMO S",
-          "icon": "assets/JC3/icons/v0508_car_solar_oldcompact.webp",
+          "icon": "icons/v0508_car_solar_oldcompact.webp",
           "desc": "",
           "basename": "v0508_car_solar_oldcompact",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "stria_carera_standard": {
           "name": "STRIA CARERA STANDARD",
-          "icon": "assets/JC3/icons/v0512_car_solar_oldtwodoorhatch.webp",
+          "icon": "icons/v0512_car_solar_oldtwodoorhatch.webp",
           "desc": "",
           "basename": "v0512_car_solar_oldtwodoorhatch",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "stria_carera_g": {
           "name": "STRIA CARERA G",
-          "icon": "assets/JC3/icons/v0513_car_solar_oldfourdoorhatch.webp",
+          "icon": "icons/v0513_car_solar_oldfourdoorhatch.webp",
           "desc": "",
           "basename": "v0513_car_solar_oldfourdoorhatch",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "63_autostraad_weltbus": {
           "name": "'63 AUTOSTRAAD WELTBUS",
-          "icon": "assets/JC3/icons/v0002_car_autostraad_oldcampervan.webp",
+          "icon": "icons/v0002_car_autostraad_oldcampervan.webp",
           "desc": "",
           "basename": "v0002_car_autostraad_oldcampervan",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         }
       }
     },
     "heavy": {
-      "icon": "assets/JC3/heavy/icon.png",
+      "icon": "heavy/icon.png",
       "content": {
         "urga_szturm_63a": {
           "name": "URGA SZTURM 63A",
-          "icon": "assets/JC3/icons/v0600_car_urga_armoredjeep.webp",
+          "icon": "icons/v0600_car_urga_armoredjeep.webp",
           "desc": "",
           "basename": "v0600_car_urga_armoredjeep",
-          "basepath": "assets/JC3/dlc/bavarium_sea_heist/editor/entities/jc_vehicles/01_land/"
+          "basepath": "dlc/bavarium_sea_heist/editor/entities/jc_vehicles/01_land/"
         },
         "stria_rustico": {
           "name": "STRIA RUSTICO",
-          "icon": "assets/JC3/icons/v0506_car_solar_oldtractor.webp",
+          "icon": "icons/v0506_car_solar_oldtractor.webp",
           "desc": "",
           "basename": "v0506_car_solar_oldtractor",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "urga_fura_570": {
           "name": "URGA FURA 570",
-          "icon": "assets/JC3/icons/v0602_car_urga_armoredtransport.webp",
+          "icon": "icons/v0602_car_urga_armoredtransport.webp",
           "desc": "",
           "basename": "v0602_car_urga_armoredtransport",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "incendiario_monster_truck": {
           "name": "INCENDIARIO MONSTER TRUCK",
-          "icon": "assets/JC3/icons/v0803_car_na_monstertruck.webp",
+          "icon": "icons/v0803_car_na_monstertruck.webp",
           "desc": "",
           "basename": "v0803_car_na_monstertruck",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         }
       }
     },
     "tank": {
-      "icon": "assets/JC3/tank/icon.png",
+      "icon": "tank/icon.png",
       "content": {
         "cs_odjur": {
           "name": "CS ODJUR",
-          "icon": "assets/JC3/icons/v0201_car_capstone_mediumtank.webp",
+          "icon": "icons/v0201_car_capstone_mediumtank.webp",
           "desc": "",
           "basename": "v0201_car_capstone_mediumtank",
-          "basepath": "assets/JC3/dlc/mech_land_assault/editor/entities/jc_vehicles/01_land/"
+          "basepath": "dlc/mech_land_assault/editor/entities/jc_vehicles/01_land/"
         },
         "cs_baltdjur": {
           "name": "CS BALTDJUR",
-          "icon": "assets/JC3/icons/v0200_car_capstone_apc.webp",
+          "icon": "icons/v0200_car_capstone_apc.webp",
           "desc": "",
           "basename": "v0200_car_capstone_apc",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "imperator_bavarium_tank": {
           "name": "IMPERATOR BAVARIUM TANK",
-          "icon": "assets/JC3/icons/v0202_car_capstone_bavariumtank.webp",
+          "icon": "icons/v0202_car_capstone_bavariumtank.webp",
           "desc": "",
           "basename": "v0202_car_capstone_bavariumtank",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "urga_bkolos_2100": {
           "name": "URGA BKOLOS 2100",
-          "icon": "assets/JC3/icons/v0603_car_urga_smalltank.webp",
+          "icon": "icons/v0603_car_urga_smalltank.webp",
           "desc": "",
           "basename": "v0603_car_urga_smalltank",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         }
       }
     },
     "bike": {
-      "icon": "assets/JC3/bike/icon.png",
+      "icon": "bike/icon.png",
       "content": {
         "pavouk_u15": {
           "name": "PAVOUK U-15",
-          "icon": "assets/JC3/icons/v3600_bike_urga_combatdirt.webp",
+          "icon": "icons/v3600_bike_urga_combatdirt.webp",
           "desc": "",
           "basename": "v3600_bike_urga_combatdirt",
-          "basepath": "assets/JC3/dlc/mech_land_assault/editor/entities/jc_vehicles/01_land/"
+          "basepath": "dlc/mech_land_assault/editor/entities/jc_vehicles/01_land/"
         },
         "autostraad_kletterer_300": {
           "name": "AUTOSTRAAD KLETTERER 300",
-          "icon": "assets/JC3/icons/v0012_car_autostraad_atv.webp",
+          "icon": "icons/v0012_car_autostraad_atv.webp",
           "desc": "",
           "basename": "v0012_car_autostraad_atv",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "geschwind_v3000": {
           "name": "GESCHWIND V3000",
-          "icon": "assets/JC3/icons/v3000_bike_autostraad_trials.webp",
+          "icon": "icons/v3000_bike_autostraad_trials.webp",
           "desc": "",
           "basename": "v3000_bike_autostraad_trials",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "mugello_furia_ms316": {
           "name": "MUGELLO FURIA MS-316",
-          "icon": "assets/JC3/icons/v3401_bike_mugello_modernsport.webp",
+          "icon": "icons/v3401_bike_mugello_modernsport.webp",
           "desc": "",
           "basename": "v3401_bike_mugello_modernsport",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "mv402": {
           "name": "MV402",
-          "icon": "assets/JC3/icons/v3402_bike_mugello_modernsuper.webp",
+          "icon": "icons/v3402_bike_mugello_modernsuper.webp",
           "desc": "",
           "basename": "v3402_bike_mugello_modernsuper",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "69_stria_sussurro": {
           "name": "'69 STRIA SUSSURRO",
-          "icon": "assets/JC3/icons/v3500_bike_solar_oldmoped.webp",
+          "icon": "icons/v3500_bike_solar_oldmoped.webp",
           "desc": "",
           "basename": "v3500_bike_solar_oldmoped",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "stria_risata": {
           "name": "STRIA RISATA",
-          "icon": "assets/JC3/icons/v3501_bike_solar_modernmoped.webp",
+          "icon": "icons/v3501_bike_solar_modernmoped.webp",
           "desc": "",
           "basename": "v3501_bike_solar_modernmoped",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "stria_giovanni": {
           "name": "STRIA GIOVANNI",
-          "icon": "assets/JC3/icons/v3502_bike_solar_modernroad.webp",
+          "icon": "icons/v3502_bike_solar_modernroad.webp",
           "desc": "",
           "basename": "v3502_bike_solar_modernroad",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "vintage_stria_m7": {
           "name": "VINTAGE STRIA M7",
-          "icon": "assets/JC3/icons/v3503_bike_solar_oldroad.webp",
+          "icon": "icons/v3503_bike_solar_oldroad.webp",
           "desc": "",
           "basename": "v3503_bike_solar_oldroad",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         }
       }
     },
     "sports": {
-      "icon": "assets/JC3/sports/icon.png",
+      "icon": "sports/icon.png",
       "content": {
         "windhund_4": {
           "name": "WINDHUND 4",
-          "icon": "assets/JC3/icons/v0003_car_autostraad_racinghothatch.webp",
+          "icon": "icons/v0003_car_autostraad_racinghothatch.webp",
           "desc": "",
           "basename": "v0003_car_autostraad_racinghothatch",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "kerner_serpente_r": {
           "name": "KERNER SERPENTE R",
-          "icon": "assets/JC3/icons/v0300_car_kensington_sportsmuscle.webp",
+          "icon": "icons/v0300_car_kensington_sportsmuscle.webp",
           "desc": "",
           "basename": "v0300_car_kensington_sportsmuscle",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "mugello_raffinati_vitesse": {
           "name": "MUGELLO RAFFINATI VITESSE",
-          "icon": "assets/JC3/icons/v0400_car_mugello_vintagesports.webp",
+          "icon": "icons/v0400_car_mugello_vintagesports.webp",
           "desc": "",
           "basename": "v0400_car_mugello_vintagesports",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "mugello_vistosa": {
           "name": "MUGELLO VISTOSA",
-          "icon": "assets/JC3/icons/v0401_car_mugello_racingsupercar.webp",
+          "icon": "icons/v0401_car_mugello_racingsupercar.webp",
           "desc": "",
           "basename": "v0401_car_mugello_racingsupercar",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "mugello_quipozza_f": {
           "name": "MUGELLO QUIPOZZA F",
-          "icon": "assets/JC3/icons/v0402_car_mugello_vintagesuper.webp",
+          "icon": "icons/v0402_car_mugello_vintagesuper.webp",
           "desc": "",
           "basename": "v0402_car_mugello_vintagesuper",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "verdeleon_3": {
           "name": "VERDELEON 3",
-          "icon": "assets/JC3/icons/v0403_car_mugello_modernecosuper.webp",
+          "icon": "icons/v0403_car_mugello_modernecosuper.webp",
           "desc": "",
           "basename": "v0403_car_mugello_modernecosuper",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "mugello_farina_duo": {
           "name": "MUGELLO FARINA DUO",
-          "icon": "assets/JC3/icons/v0405_car_mugello_moderncircuitracer.webp",
+          "icon": "icons/v0405_car_mugello_moderncircuitracer.webp",
           "desc": "",
           "basename": "v0405_car_mugello_moderncircuitracer",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         }
       }
     },
     "modern": {
-      "icon": "assets/JC3/modern/icon.png",
+      "icon": "modern/icon.png",
       "content": {
         "autostraad_d700": {
           "name": "AUTOSTRAAD D700",
-          "icon": "assets/JC3/icons/v0008_car_autostraad_modernsportssaloon.webp",
+          "icon": "icons/v0008_car_autostraad_modernsportssaloon.webp",
           "desc": "",
           "basename": "v0008_car_autostraad_modernsportssaloon",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "autostraad_d90": {
           "name": "AUTOSTRAAD D90",
-          "icon": "assets/JC3/icons/v0009_car_autostraad_modernsaloon.webp",
+          "icon": "icons/v0009_car_autostraad_modernsaloon.webp",
           "desc": "",
           "basename": "v0009_car_autostraad_modernsaloon",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "05_charmant": {
           "name": "'05 CHARMANT",
-          "icon": "assets/JC3/icons/v0302_car_kensington_modernlimo.webp",
+          "icon": "icons/v0302_car_kensington_modernlimo.webp",
           "desc": "",
           "basename": "v0302_car_kensington_modernlimo",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "13_vigueur": {
           "name": "'13 VIGUEUR",
-          "icon": "assets/JC3/icons/v0305_car_kensington_moderngrandtourer.webp",
+          "icon": "icons/v0305_car_kensington_moderngrandtourer.webp",
           "desc": "",
           "basename": "v0305_car_kensington_moderngrandtourer",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "stria_kavala": {
           "name": "STRIA KAVALA",
-          "icon": "assets/JC3/icons/v0503_car_solar_modernsuv.webp",
+          "icon": "icons/v0503_car_solar_modernsuv.webp",
           "desc": "",
           "basename": "v0503_car_solar_modernsuv",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "stria_gioco": {
           "name": "STRIA GIOCO",
-          "icon": "assets/JC3/icons/v0509_car_solar_modernmini.webp",
+          "icon": "icons/v0509_car_solar_modernmini.webp",
           "desc": "",
           "basename": "v0509_car_solar_modernmini",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "stria_ghepardo_3s": {
           "name": "STRIA GHEPARDO 3S",
-          "icon": "assets/JC3/icons/v0510_car_solar_modernroadster.webp",
+          "icon": "icons/v0510_car_solar_modernroadster.webp",
           "desc": "",
           "basename": "v0510_car_solar_modernroadster",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "stria_toro": {
           "name": "STRIA TORO",
-          "icon": "assets/JC3/icons/v0514_car_solar_modernpickup.webp",
+          "icon": "icons/v0514_car_solar_modernpickup.webp",
           "desc": "",
           "basename": "v0514_car_solar_modernpickup",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         }
       }
     },
     "offroad": {
-      "icon": "assets/JC3/offroad/icon.png",
+      "icon": "offroad/icon.png",
       "content": {
         "stria_facocero": {
           "name": "STRIA FACOCERO",
-          "icon": "assets/JC3/icons/v0504_car_solar_technicaljeep.webp",
+          "icon": "icons/v0504_car_solar_technicaljeep.webp",
           "desc": "",
           "basename": "v0504_car_solar_technicaljeep",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "urga_ogar_7_v8": {
           "name": "URGA OGAR 7 V8",
-          "icon": "assets/JC3/icons/v0604_car_urga_buggy.webp",
+          "icon": "icons/v0604_car_urga_buggy.webp",
           "desc": "",
           "basename": "v0604_car_urga_buggy",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         }
       }
     },
     "misc": {
-      "icon": "assets/JC3/misc/icon.png",
+      "icon": "misc/icon.png",
       "content": {
         "the_rocket": {
           "name": "THE ROCKET",
-          "icon": "assets/JC3/icons/v0866_car_na_ladbil.webp",
+          "icon": "icons/v0866_car_na_ladbil.webp",
           "desc": "",
           "basename": "v0866_car_na_ladbil",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "v0805_car_na_mech_civilian": {
           "name": "v0805_car_na_mech_civilian",
-          "icon": "assets/JC3/icons/v0805_car_na_mech.webp",
+          "icon": "icons/v0805_car_na_mech.webp",
           "desc": "",
           "basename": "v0805_car_na_mech",
-          "basepath": "assets/JC3/dlc/mech_land_assault/editor/entities/jc_vehicles/01_land/"
+          "basepath": "dlc/mech_land_assault/editor/entities/jc_vehicles/01_land/"
         },
         "v5601_train_urga_monorailcargoengine_military_04": {
           "name": "v5601_train_urga_monorailcargoengine_military_04",
-          "icon": "assets/JC3/icons/v5601_train_urga_monorailcargoengine.webp",
+          "icon": "icons/v5601_train_urga_monorailcargoengine.webp",
           "desc": "",
           "basename": "v5601_train_urga_monorailcargoengine",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "v5602_train_urga_monorailflatbed_military_containers": {
           "name": "v5602_train_urga_monorailflatbed_military_containers",
-          "icon": "assets/JC3/icons/v5602_train_urga_monorailflatbed.webp",
+          "icon": "icons/v5602_train_urga_monorailflatbed.webp",
           "desc": "",
           "basename": "v5602_train_urga_monorailflatbed",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "v5603_train_urga_monorailmissilecar_military_01": {
           "name": "v5603_train_urga_monorailmissilecar_military_01",
-          "icon": "assets/JC3/icons/v5603_train_urga_monorailmissilecar.webp",
+          "icon": "icons/v5603_train_urga_monorailmissilecar.webp",
           "desc": "",
           "basename": "v5603_train_urga_monorailmissilecar",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         },
         "v0505_car_solar_oldtruck_rebel_emp_custom_mm250": {
           "name": "v0505_car_solar_oldtruck_rebel_emp_custom_mm250",
-          "icon": "assets/JC3/icons/v0505_car_solar_oldtruck.webp",
+          "icon": "icons/v0505_car_solar_oldtruck.webp",
           "desc": "",
           "basename": "v0505_car_solar_oldtruck",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+          "basepath": "editor/entities/jc_vehicles/01_land/"
         }
       }
     },
     "helicopter": {
-      "icon": "assets/JC3/helicopter/icon.png",
+      "icon": "helicopter/icon.png",
       "content": {
         "cs_navajo": {
           "name": "CS NAVAJO",
-          "icon": "assets/JC3/icons/v2200_helicopter_capstone_assault.webp",
+          "icon": "icons/v2200_helicopter_capstone_assault.webp",
           "desc": "",
           "basename": "v2200_helicopter_capstone_assault",
-          "basepath": "assets/JC3/dlc/bavarium_sea_heist/editor/entities/jc_vehicles/02_air/"
+          "basepath": "dlc/bavarium_sea_heist/editor/entities/jc_vehicles/02_air/"
         },
         "urga_postolka": {
           "name": "URGA POSTOLKA",
-          "icon": "assets/JC3/icons/v2602_helicopter_urga_lightassault.webp",
+          "icon": "icons/v2602_helicopter_urga_lightassault.webp",
           "desc": "",
           "basename": "v2602_helicopter_urga_lightassault",
-          "basepath": "assets/JC3/dlc/bavarium_sea_heist/editor/entities/jc_vehicles/02_air/"
+          "basepath": "dlc/bavarium_sea_heist/editor/entities/jc_vehicles/02_air/"
         },
         "eubus_eagle": {
           "name": "EUBUS EAGLE",
-          "icon": "assets/JC3/icons/v2102_helicopter_eubus_utility.webp",
+          "icon": "icons/v2102_helicopter_eubus_utility.webp",
           "desc": "",
           "basename": "v2102_helicopter_eubus_utility",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/02_air/"
+          "basepath": "editor/entities/jc_vehicles/02_air/"
         },
         "cs_comet": {
           "name": "CS COMET",
-          "icon": "assets/JC3/icons/v2201_helicopter_capstone_heavytroop.webp",
+          "icon": "icons/v2201_helicopter_capstone_heavytroop.webp",
           "desc": "",
           "basename": "v2201_helicopter_capstone_heavytroop",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/02_air/"
+          "basepath": "editor/entities/jc_vehicles/02_air/"
         },
         "urga_hrom_d": {
           "name": "URGA HROM D",
-          "icon": "assets/JC3/icons/v2601_helicopter_urga_heavyassault.webp",
+          "icon": "icons/v2601_helicopter_urga_heavyassault.webp",
           "desc": "",
           "basename": "v2601_helicopter_urga_heavyassault",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/02_air/"
+          "basepath": "editor/entities/jc_vehicles/02_air/"
         },
         "urga_racek": {
           "name": "URGA RACEK",
-          "icon": "assets/JC3/icons/v2603_helicopter_urga_seascout.webp",
+          "icon": "icons/v2603_helicopter_urga_seascout.webp",
           "desc": "",
           "basename": "v2603_helicopter_urga_seascout",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/02_air/"
+          "basepath": "editor/entities/jc_vehicles/02_air/"
         },
         "urga_mstitel": {
           "name": "URGA MSTITEL",
-          "icon": "assets/JC3/icons/v2604_helicopter_urga_advancedassault.webp",
+          "icon": "icons/v2604_helicopter_urga_advancedassault.webp",
           "desc": "",
           "basename": "v2604_helicopter_urga_advancedassault",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/02_air/"
+          "basepath": "editor/entities/jc_vehicles/02_air/"
         }
       }
     },
     "plane": {
-      "icon": "assets/JC3/plane/icon.png",
+      "icon": "plane/icon.png",
       "content": {
         "urga_u17_akrobat": {
           "name": "URGA U17 AKROBAT",
-          "icon": "assets/JC3/icons/v4600_plane_urga_privatepropeller.webp",
+          "icon": "icons/v4600_plane_urga_privatepropeller.webp",
           "desc": "",
           "basename": "v4600_plane_urga_privatepropeller",
-          "basepath": "assets/JC3/dlc/bavarium_sea_heist/editor/entities/jc_vehicles/02_air/"
+          "basepath": "dlc/bavarium_sea_heist/editor/entities/jc_vehicles/02_air/"
         },
         "u41_ptakojester": {
           "name": "U41 PTAKOJESTER",
-          "icon": "assets/JC3/icons/v4603_plane_urga_cargotransport.webp",
+          "icon": "icons/v4603_plane_urga_cargotransport.webp",
           "desc": "",
           "basename": "v4603_plane_urga_cargotransport",
-          "basepath": "assets/JC3/dlc/bavarium_sea_heist/editor/entities/jc_vehicles/02_air/"
+          "basepath": "dlc/bavarium_sea_heist/editor/entities/jc_vehicles/02_air/"
         },
         "cs7_thunderhawk": {
           "name": "CS7 THUNDERHAWK",
-          "icon": "assets/JC3/icons/v4202_plane_capstone_fighterjet.webp",
+          "icon": "icons/v4202_plane_capstone_fighterjet.webp",
           "desc": "",
           "basename": "v4202_plane_capstone_fighterjet",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/02_air/"
+          "basepath": "editor/entities/jc_vehicles/02_air/"
         },
         "stria_ghibli_3": {
           "name": "STRIA GHIBLI 3",
-          "icon": "assets/JC3/icons/v4500_plane_solar_smallfloatprop.webp",
+          "icon": "icons/v4500_plane_solar_smallfloatprop.webp",
           "desc": "",
           "basename": "v4500_plane_solar_smallfloatprop",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/02_air/"
+          "basepath": "editor/entities/jc_vehicles/02_air/"
         },
         "u7_dravec": {
           "name": "U-7 DRAVEC",
-          "icon": "assets/JC3/icons/v4602_plane_urga_fighterbomber.webp",
+          "icon": "icons/v4602_plane_urga_fighterbomber.webp",
           "desc": "",
           "basename": "v4602_plane_urga_fighterbomber",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/02_air/"
+          "basepath": "editor/entities/jc_vehicles/02_air/"
         }
       }
     },
     "boat": {
-      "icon": "assets/JC3/boat/icon.png",
+      "icon": "boat/icon.png",
       "content": {
         "cs_powerrun_77": {
           "name": "CS POWERRUN 77",
-          "icon": "assets/JC3/icons/v1200_boat_capstone_heavypatrol.webp",
+          "icon": "icons/v1200_boat_capstone_heavypatrol.webp",
           "desc": "",
           "basename": "v1200_boat_capstone_heavypatrol",
-          "basepath": "assets/JC3/dlc/bavarium_sea_heist/editor/entities/jc_vehicles/03_sea/"
+          "basepath": "dlc/bavarium_sea_heist/editor/entities/jc_vehicles/03_sea/"
         },
         "military_corvette": {
           "name": "MILITARY CORVETTE",
-          "icon": "assets/JC3/icons/v1202_boat_capstone_corvette.webp",
+          "icon": "icons/v1202_boat_capstone_corvette.webp",
           "desc": "",
           "basename": "v1202_boat_capstone_corvette",
-          "basepath": "assets/JC3/dlc/bavarium_sea_heist/editor/entities/jc_vehicles/03_sea/"
+          "basepath": "dlc/bavarium_sea_heist/editor/entities/jc_vehicles/03_sea/"
         },
         "urga_hroch": {
           "name": "URGA HROCH",
-          "icon": "assets/JC3/icons/v1602_boat_urga_transport.webp",
+          "icon": "icons/v1602_boat_urga_transport.webp",
           "desc": "",
           "basename": "v1602_boat_urga_transport",
-          "basepath": "assets/JC3/dlc/bavarium_sea_heist/editor/entities/jc_vehicles/03_sea/"
+          "basepath": "dlc/bavarium_sea_heist/editor/entities/jc_vehicles/03_sea/"
         },
         "custode_29": {
           "name": "CUSTODE 29",
-          "icon": "assets/JC3/icons/v1704_boat_na_lightpatrol.webp",
+          "icon": "icons/v1704_boat_na_lightpatrol.webp",
           "desc": "",
           "basename": "v1704_boat_na_lightpatrol",
-          "basepath": "assets/JC3/dlc/bavarium_sea_heist/editor/entities/jc_vehicles/03_sea/"
+          "basepath": "dlc/bavarium_sea_heist/editor/entities/jc_vehicles/03_sea/"
         },
         "dame_de_la_mer_99": {
           "name": "DAME DE LA MER 99",
-          "icon": "assets/JC3/icons/v1300_boat_kensington_motoryacht.webp",
+          "icon": "icons/v1300_boat_kensington_motoryacht.webp",
           "desc": "",
           "basename": "v1300_boat_kensington_motoryacht",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/03_sea/"
+          "basepath": "editor/entities/jc_vehicles/03_sea/"
         },
         "brise_32": {
           "name": "BRISE 32",
-          "icon": "assets/JC3/icons/v1302_boat_kensington_sailboat.webp",
+          "icon": "icons/v1302_boat_kensington_sailboat.webp",
           "desc": "",
           "basename": "v1302_boat_kensington_sailboat",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/03_sea/"
+          "basepath": "editor/entities/jc_vehicles/03_sea/"
         },
         "squalo_x7": {
           "name": "SQUALO X7",
-          "icon": "assets/JC3/icons/v1400_boat_mugello_spyspeedboat.webp",
+          "icon": "icons/v1400_boat_mugello_spyspeedboat.webp",
           "desc": "",
           "basename": "v1400_boat_mugello_spyspeedboat",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/03_sea/"
+          "basepath": "editor/entities/jc_vehicles/03_sea/"
         },
         "pescespada_ss": {
           "name": "PESCESPADA SS",
-          "icon": "assets/JC3/icons/v1401_boat_mugello_racingboat.webp",
+          "icon": "icons/v1401_boat_mugello_racingboat.webp",
           "desc": "",
           "basename": "v1401_boat_mugello_racingboat",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/03_sea/"
+          "basepath": "editor/entities/jc_vehicles/03_sea/"
         },
         "stria_pw_220_rgt": {
           "name": "STRIA PW 220 R-GT",
-          "icon": "assets/JC3/icons/v1500_boat_solar_jetski.webp",
+          "icon": "icons/v1500_boat_solar_jetski.webp",
           "desc": "",
           "basename": "v1500_boat_solar_jetski",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/03_sea/"
+          "basepath": "editor/entities/jc_vehicles/03_sea/"
         },
         "minnow_fishing_boat": {
           "name": "MINNOW FISHING BOAT",
-          "icon": "assets/JC3/icons/v1701_boat_na_smalloldfishing.webp",
+          "icon": "icons/v1701_boat_na_smalloldfishing.webp",
           "desc": "",
           "basename": "v1701_boat_na_smalloldfishing",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/03_sea/"
+          "basepath": "editor/entities/jc_vehicles/03_sea/"
         },
         "whaleshark": {
           "name": "WHALESHARK",
-          "icon": "assets/JC3/icons/v1705_boat_na_mediumoldfishing.webp",
+          "icon": "icons/v1705_boat_na_mediumoldfishing.webp",
           "desc": "",
           "basename": "v1705_boat_na_mediumoldfishing",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/03_sea/"
+          "basepath": "editor/entities/jc_vehicles/03_sea/"
         },
         "rubber_ducky": {
           "name": "RUBBER DUCKY",
-          "icon": "assets/JC3/icons/v1717_boat_na_duck.webp",
+          "icon": "icons/v1717_boat_na_duck.webp",
           "desc": "",
           "basename": "v1717_boat_na_duck",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/03_sea/"
+          "basepath": "editor/entities/jc_vehicles/03_sea/"
         }
       }
     }
   },
   "weapons": {
     "special": {
-      "icon": "assets/JC3/special/icon.png",
+      "icon": "special/icon.png",
       "content": {
         "w180_lightninggun": {
           "name": "W180 Lightninggun",
-          "icon": "assets/JC3/icons/w180_lightninggun.webp",
+          "icon": "icons/w180_lightninggun.webp",
           "desc": "",
           "basename": "w180_lightninggun",
-          "basepath": "assets/JC3/dlc/bavarium_sea_heist/editor/entities/jc_weapons/02_two_handed/w180_lightninggun/"
+          "basepath": "dlc/bavarium_sea_heist/editor/entities/jc_weapons/02_two_handed/w180_lightninggun/"
         },
         "w702_emp": {
           "name": "W702 Emp",
-          "icon": "assets/JC3/icons/w702_emp.webp",
+          "icon": "icons/w702_emp.webp",
           "desc": "",
           "basename": "w702_emp",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w702_emp/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w702_emp/"
         },
         "w201_minigun": {
           "name": "W201 Minigun",
-          "icon": "assets/JC3/icons/w201_minigun.webp",
+          "icon": "icons/w201_minigun.webp",
           "desc": "",
           "basename": "w201_minigun",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/04_mounted/w201_minigun/"
+          "basepath": "editor/entities/jc_weapons/04_mounted/w201_minigun/"
         },
         "w201_minigun_mount": {
           "name": "W201 Minigun Mount",
-          "icon": "assets/JC3/icons/w201_minigun_mount.webp",
+          "icon": "icons/w201_minigun_mount.webp",
           "desc": "",
           "basename": "w201_minigun_mount",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/04_mounted/w201_minigun/"
+          "basepath": "editor/entities/jc_weapons/04_mounted/w201_minigun/"
         }
       }
     },
     "stationary": {
-      "icon": "assets/JC3/stationary/icon.png",
+      "icon": "stationary/icon.png",
       "content": {
         "w508_turret_sam_v2": {
           "name": "W508 Turret Sam V2",
-          "icon": "assets/JC3/icons/w508_turret_sam_v2.webp",
+          "icon": "icons/w508_turret_sam_v2.webp",
           "desc": "",
           "basename": "w508_turret_sam_v2",
-          "basepath": "assets/JC3/dlc/bavarium_sea_heist/editor/entities/jc_weapons/05_stationary/w508_turret_sam_missile/"
+          "basepath": "dlc/bavarium_sea_heist/editor/entities/jc_weapons/05_stationary/w508_turret_sam_missile/"
         },
         "w508_turret_sam_v2_custom_scripted": {
           "name": "W508 Turret Sam V2 Custom Scripted",
-          "icon": "assets/JC3/icons/w508_turret_sam_v2_custom_scripted.webp",
+          "icon": "icons/w508_turret_sam_v2_custom_scripted.webp",
           "desc": "",
           "basename": "w508_turret_sam_v2_custom_scripted",
-          "basepath": "assets/JC3/dlc/bavarium_sea_heist/editor/entities/jc_weapons/05_stationary/w508_turret_sam_missile/"
+          "basepath": "dlc/bavarium_sea_heist/editor/entities/jc_weapons/05_stationary/w508_turret_sam_missile/"
         },
         "w508_turret_sam_wheelcover": {
           "name": "W508 Turret Sam Wheelcover",
-          "icon": "assets/JC3/icons/w508_turret_sam_wheelcover.webp",
+          "icon": "icons/w508_turret_sam_wheelcover.webp",
           "desc": "",
           "basename": "w508_turret_sam_wheelcover",
-          "basepath": "assets/JC3/dlc/bavarium_sea_heist/editor/entities/jc_weapons/05_stationary/w508_turret_sam_missile/"
+          "basepath": "dlc/bavarium_sea_heist/editor/entities/jc_weapons/05_stationary/w508_turret_sam_missile/"
         },
         "w505_sam_eden_heavycontroldrone": {
           "name": "W505 Sam Eden Heavycontroldrone",
-          "icon": "assets/JC3/icons/w505_sam_eden_heavycontroldrone.webp",
+          "icon": "icons/w505_sam_eden_heavycontroldrone.webp",
           "desc": "",
           "basename": "w505_sam_eden_heavycontroldrone",
-          "basepath": "assets/JC3/dlc/mech_land_assault/editor/entities/jc_weapons/05_stationary/w505_sam_eden_heavycontroldrone/"
+          "basepath": "dlc/mech_land_assault/editor/entities/jc_weapons/05_stationary/w505_sam_eden_heavycontroldrone/"
         },
         "w505_sam_eden_heavycontroldrone_arm": {
           "name": "W505 Sam Eden Heavycontroldrone Arm",
-          "icon": "assets/JC3/icons/w505_sam_eden_heavycontroldrone_arm.webp",
+          "icon": "icons/w505_sam_eden_heavycontroldrone_arm.webp",
           "desc": "",
           "basename": "w505_sam_eden_heavycontroldrone_arm",
-          "basepath": "assets/JC3/dlc/mech_land_assault/editor/entities/jc_weapons/05_stationary/w505_sam_eden_heavycontroldrone/"
+          "basepath": "dlc/mech_land_assault/editor/entities/jc_weapons/05_stationary/w505_sam_eden_heavycontroldrone/"
         },
         "w505_sam_eden_heavycontroldrone_boss": {
           "name": "W505 Sam Eden Heavycontroldrone Boss",
-          "icon": "assets/JC3/icons/w505_sam_eden_heavycontroldrone_boss.webp",
+          "icon": "icons/w505_sam_eden_heavycontroldrone_boss.webp",
           "desc": "",
           "basename": "w505_sam_eden_heavycontroldrone_boss",
-          "basepath": "assets/JC3/dlc/mech_land_assault/editor/entities/jc_weapons/05_stationary/w505_sam_eden_heavycontroldrone/"
+          "basepath": "dlc/mech_land_assault/editor/entities/jc_weapons/05_stationary/w505_sam_eden_heavycontroldrone/"
         },
         "w505_sam_eden_heavycontroldrone_weapon": {
           "name": "W505 Sam Eden Heavycontroldrone Weapon",
-          "icon": "assets/JC3/icons/w505_sam_eden_heavycontroldrone_weapon.webp",
+          "icon": "icons/w505_sam_eden_heavycontroldrone_weapon.webp",
           "desc": "",
           "basename": "w505_sam_eden_heavycontroldrone_weapon",
-          "basepath": "assets/JC3/dlc/mech_land_assault/editor/entities/jc_weapons/05_stationary/w505_sam_eden_heavycontroldrone/"
+          "basepath": "dlc/mech_land_assault/editor/entities/jc_weapons/05_stationary/w505_sam_eden_heavycontroldrone/"
         },
         "dlc2_sam_bh_controldrone_01": {
           "name": "Dlc2 Sam Bh Controldrone 01",
-          "icon": "assets/JC3/icons/dlc2_sam_bh_controldrone_01.webp",
+          "icon": "icons/dlc2_sam_bh_controldrone_01.webp",
           "desc": "",
           "basename": "dlc2_sam_bh_controldrone_01",
-          "basepath": "assets/JC3/dlc/mech_land_assault/editor/entities/jc_weapons/05_stationary/w506_sam_blackhand_heavycontroldrone/"
+          "basepath": "dlc/mech_land_assault/editor/entities/jc_weapons/05_stationary/w506_sam_blackhand_heavycontroldrone/"
         },
         "dlc2_sam_bh_controldrone_02": {
           "name": "Dlc2 Sam Bh Controldrone 02",
-          "icon": "assets/JC3/icons/dlc2_sam_bh_controldrone_02.webp",
+          "icon": "icons/dlc2_sam_bh_controldrone_02.webp",
           "desc": "",
           "basename": "dlc2_sam_bh_controldrone_02",
-          "basepath": "assets/JC3/dlc/mech_land_assault/editor/entities/jc_weapons/05_stationary/w506_sam_blackhand_heavycontroldrone/"
+          "basepath": "dlc/mech_land_assault/editor/entities/jc_weapons/05_stationary/w506_sam_blackhand_heavycontroldrone/"
         },
         "dlc2_sam_bh_controldrone_03": {
           "name": "Dlc2 Sam Bh Controldrone 03",
-          "icon": "assets/JC3/icons/dlc2_sam_bh_controldrone_03.webp",
+          "icon": "icons/dlc2_sam_bh_controldrone_03.webp",
           "desc": "",
           "basename": "dlc2_sam_bh_controldrone_03",
-          "basepath": "assets/JC3/dlc/mech_land_assault/editor/entities/jc_weapons/05_stationary/w506_sam_blackhand_heavycontroldrone/"
+          "basepath": "dlc/mech_land_assault/editor/entities/jc_weapons/05_stationary/w506_sam_blackhand_heavycontroldrone/"
         },
         "dlc2_sam_bh_controldrone_04": {
           "name": "Dlc2 Sam Bh Controldrone 04",
-          "icon": "assets/JC3/icons/dlc2_sam_bh_controldrone_04.webp",
+          "icon": "icons/dlc2_sam_bh_controldrone_04.webp",
           "desc": "",
           "basename": "dlc2_sam_bh_controldrone_04",
-          "basepath": "assets/JC3/dlc/mech_land_assault/editor/entities/jc_weapons/05_stationary/w506_sam_blackhand_heavycontroldrone/"
+          "basepath": "dlc/mech_land_assault/editor/entities/jc_weapons/05_stationary/w506_sam_blackhand_heavycontroldrone/"
         },
         "dlc2_sam_bh_controldrone_05": {
           "name": "Dlc2 Sam Bh Controldrone 05",
-          "icon": "assets/JC3/icons/dlc2_sam_bh_controldrone_05.webp",
+          "icon": "icons/dlc2_sam_bh_controldrone_05.webp",
           "desc": "",
           "basename": "dlc2_sam_bh_controldrone_05",
-          "basepath": "assets/JC3/dlc/mech_land_assault/editor/entities/jc_weapons/05_stationary/w506_sam_blackhand_heavycontroldrone/"
+          "basepath": "dlc/mech_land_assault/editor/entities/jc_weapons/05_stationary/w506_sam_blackhand_heavycontroldrone/"
         },
         "w506_sam_blackhand_heavycontroldrone": {
           "name": "W506 Sam Blackhand Heavycontroldrone",
-          "icon": "assets/JC3/icons/w506_sam_blackhand_heavycontroldrone.webp",
+          "icon": "icons/w506_sam_blackhand_heavycontroldrone.webp",
           "desc": "",
           "basename": "w506_sam_blackhand_heavycontroldrone",
-          "basepath": "assets/JC3/dlc/mech_land_assault/editor/entities/jc_weapons/05_stationary/w506_sam_blackhand_heavycontroldrone/"
+          "basepath": "dlc/mech_land_assault/editor/entities/jc_weapons/05_stationary/w506_sam_blackhand_heavycontroldrone/"
         },
         "w504_sam_eden_fdc": {
           "name": "W504 Sam Eden Fdc",
-          "icon": "assets/JC3/icons/w504_sam_eden_fdc.webp",
+          "icon": "icons/w504_sam_eden_fdc.webp",
           "desc": "",
           "basename": "w504_sam_eden_fdc",
-          "basepath": "assets/JC3/dlc/sky_fortress/editor/entities/jc_weapons/05_stationary/w504_sam_eden_fdc/"
+          "basepath": "dlc/sky_fortress/editor/entities/jc_weapons/05_stationary/w504_sam_eden_fdc/"
         },
         "w504_sam_eden_fdc_flak": {
           "name": "W504 Sam Eden Fdc Flak",
-          "icon": "assets/JC3/icons/w504_sam_eden_fdc_flak.webp",
+          "icon": "icons/w504_sam_eden_fdc_flak.webp",
           "desc": "",
           "basename": "w504_sam_eden_fdc_flak",
-          "basepath": "assets/JC3/dlc/sky_fortress/editor/entities/jc_weapons/05_stationary/w504_sam_eden_fdc/"
+          "basepath": "dlc/sky_fortress/editor/entities/jc_weapons/05_stationary/w504_sam_eden_fdc/"
         },
         "w504_sam_eden_fdc_inverted": {
           "name": "W504 Sam Eden Fdc Inverted",
-          "icon": "assets/JC3/icons/w504_sam_eden_fdc_inverted.webp",
+          "icon": "icons/w504_sam_eden_fdc_inverted.webp",
           "desc": "",
           "basename": "w504_sam_eden_fdc_inverted",
-          "basepath": "assets/JC3/dlc/sky_fortress/editor/entities/jc_weapons/05_stationary/w504_sam_eden_fdc/"
+          "basepath": "dlc/sky_fortress/editor/entities/jc_weapons/05_stationary/w504_sam_eden_fdc/"
         },
         "w505_sam_eden_heavycontroldrone2": {
           "name": "W505 Sam Eden Heavycontroldrone",
-          "icon": "assets/JC3/icons/w505_sam_eden_heavycontroldrone.webp",
+          "icon": "icons/w505_sam_eden_heavycontroldrone.webp",
           "desc": "",
           "basename": "w505_sam_eden_heavycontroldrone",
-          "basepath": "assets/JC3/dlc/sky_fortress/editor/entities/jc_weapons/05_stationary/w505_sam_eden_heavycontroldrone/"
+          "basepath": "dlc/sky_fortress/editor/entities/jc_weapons/05_stationary/w505_sam_eden_heavycontroldrone/"
         },
         "w505_sam_eden_heavycontroldrone_arm2": {
           "name": "W505 Sam Eden Heavycontroldrone Arm",
-          "icon": "assets/JC3/icons/w505_sam_eden_heavycontroldrone_arm.webp",
+          "icon": "icons/w505_sam_eden_heavycontroldrone_arm.webp",
           "desc": "",
           "basename": "w505_sam_eden_heavycontroldrone_arm",
-          "basepath": "assets/JC3/dlc/sky_fortress/editor/entities/jc_weapons/05_stationary/w505_sam_eden_heavycontroldrone/"
+          "basepath": "dlc/sky_fortress/editor/entities/jc_weapons/05_stationary/w505_sam_eden_heavycontroldrone/"
         },
         "w505_sam_eden_heavycontroldrone_boss2": {
           "name": "W505 Sam Eden Heavycontroldrone Boss",
-          "icon": "assets/JC3/icons/w505_sam_eden_heavycontroldrone_boss.webp",
+          "icon": "icons/w505_sam_eden_heavycontroldrone_boss.webp",
           "desc": "",
           "basename": "w505_sam_eden_heavycontroldrone_boss",
-          "basepath": "assets/JC3/dlc/sky_fortress/editor/entities/jc_weapons/05_stationary/w505_sam_eden_heavycontroldrone/"
+          "basepath": "dlc/sky_fortress/editor/entities/jc_weapons/05_stationary/w505_sam_eden_heavycontroldrone/"
         },
         "w505_sam_eden_heavycontroldrone_weapon2": {
           "name": "W505 Sam Eden Heavycontroldrone Weapon",
-          "icon": "assets/JC3/icons/w505_sam_eden_heavycontroldrone_weapon.webp",
+          "icon": "icons/w505_sam_eden_heavycontroldrone_weapon.webp",
           "desc": "",
           "basename": "w505_sam_eden_heavycontroldrone_weapon",
-          "basepath": "assets/JC3/dlc/sky_fortress/editor/entities/jc_weapons/05_stationary/w505_sam_eden_heavycontroldrone/"
+          "basepath": "dlc/sky_fortress/editor/entities/jc_weapons/05_stationary/w505_sam_eden_heavycontroldrone/"
         },
         "w501_turret_sam_v2": {
           "name": "W501 Turret Sam V2",
-          "icon": "assets/JC3/icons/w501_turret_sam_v2.webp",
+          "icon": "icons/w501_turret_sam_v2.webp",
           "desc": "",
           "basename": "w501_turret_sam_v2",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/05_stationary/w501_turret_sam_missile/"
+          "basepath": "editor/entities/jc_weapons/05_stationary/w501_turret_sam_missile/"
         },
         "w501_turret_sam_v2_custom_scripted": {
           "name": "W501 Turret Sam V2 Custom Scripted",
-          "icon": "assets/JC3/icons/w501_turret_sam_v2_custom_scripted.webp",
+          "icon": "icons/w501_turret_sam_v2_custom_scripted.webp",
           "desc": "",
           "basename": "w501_turret_sam_v2_custom_scripted",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/05_stationary/w501_turret_sam_missile/"
+          "basepath": "editor/entities/jc_weapons/05_stationary/w501_turret_sam_missile/"
         },
         "w501_turret_sam_wheelcover": {
           "name": "W501 Turret Sam Wheelcover",
-          "icon": "assets/JC3/icons/w501_turret_sam_wheelcover.webp",
+          "icon": "icons/w501_turret_sam_wheelcover.webp",
           "desc": "",
           "basename": "w501_turret_sam_wheelcover",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/05_stationary/w501_turret_sam_missile/"
+          "basepath": "editor/entities/jc_weapons/05_stationary/w501_turret_sam_missile/"
         },
         "mission_a_turret_aa_gun": {
           "name": "Mission A Turret Aa Gun",
-          "icon": "assets/JC3/icons/mission_a_turret_aa_gun.webp",
+          "icon": "icons/mission_a_turret_aa_gun.webp",
           "desc": "",
           "basename": "mission_a_turret_aa_gun",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/05_stationary/w502_turret_aa_gun/"
+          "basepath": "editor/entities/jc_weapons/05_stationary/w502_turret_aa_gun/"
         },
         "w502_turret_aa_gun": {
           "name": "W502 Turret Aa Gun",
-          "icon": "assets/JC3/icons/w502_turret_aa_gun.webp",
+          "icon": "icons/w502_turret_aa_gun.webp",
           "desc": "",
           "basename": "w502_turret_aa_gun",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/05_stationary/w502_turret_aa_gun/"
+          "basepath": "editor/entities/jc_weapons/05_stationary/w502_turret_aa_gun/"
         },
         "w503_turret_emp": {
           "name": "W503 Turret Emp",
-          "icon": "assets/JC3/icons/w503_turret_emp.webp",
+          "icon": "icons/w503_turret_emp.webp",
           "desc": "",
           "basename": "w503_turret_emp",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/05_stationary/w503_turret_emp/"
+          "basepath": "editor/entities/jc_weapons/05_stationary/w503_turret_emp/"
         },
         "w504_turret_m488": {
           "name": "W504 Turret M488",
-          "icon": "assets/JC3/icons/w504_turret_m488.webp",
+          "icon": "icons/w504_turret_m488.webp",
           "desc": "",
           "basename": "w504_turret_m488",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/05_stationary/w504_turret_m488/"
+          "basepath": "editor/entities/jc_weapons/05_stationary/w504_turret_m488/"
         }
       }
     },
     "misc": {
-      "icon": "assets/JC3/misc/icon.png",
+      "icon": "misc/icon.png",
       "content": {
         "w119_molten_bavarium_spitter": {
           "name": "W119 Molten Bavarium Spitter",
-          "icon": "assets/JC3/icons/w119_molten_bavarium_spitter.webp",
+          "icon": "icons/w119_molten_bavarium_spitter.webp",
           "desc": "",
           "basename": "w119_molten_bavarium_spitter",
-          "basepath": "assets/JC3/dlc/mech_land_assault/editor/entities/jc_weapons/02_two_handed/"
+          "basepath": "dlc/mech_land_assault/editor/entities/jc_weapons/02_two_handed/"
         },
         "w119_molten_bavarium_spitter_mag": {
           "name": "W119 Molten Bavarium Spitter Mag",
-          "icon": "assets/JC3/icons/w119_molten_bavarium_spitter_mag.webp",
+          "icon": "icons/w119_molten_bavarium_spitter_mag.webp",
           "desc": "",
           "basename": "w119_molten_bavarium_spitter_mag",
-          "basepath": "assets/JC3/dlc/mech_land_assault/editor/entities/jc_weapons/02_two_handed/"
+          "basepath": "dlc/mech_land_assault/editor/entities/jc_weapons/02_two_handed/"
         },
         "w210_powercore": {
           "name": "W210 Powercore",
-          "icon": "assets/JC3/icons/w210_powercore.webp",
+          "icon": "icons/w210_powercore.webp",
           "desc": "",
           "basename": "w210_powercore",
-          "basepath": "assets/JC3/dlc/mech_land_assault/editor/entities/jc_weapons/04_mounted/w210_powercore/"
+          "basepath": "dlc/mech_land_assault/editor/entities/jc_weapons/04_mounted/w210_powercore/"
         },
         "w210_powercore_embedded": {
           "name": "W210 Powercore Embedded",
-          "icon": "assets/JC3/icons/w210_powercore_embedded.webp",
+          "icon": "icons/w210_powercore_embedded.webp",
           "desc": "",
           "basename": "w210_powercore_embedded",
-          "basepath": "assets/JC3/dlc/mech_land_assault/editor/entities/jc_weapons/04_mounted/w210_powercore/"
+          "basepath": "dlc/mech_land_assault/editor/entities/jc_weapons/04_mounted/w210_powercore/"
         },
         "w210_powercore_embedded_clean": {
           "name": "W210 Powercore Embedded Clean",
-          "icon": "assets/JC3/icons/w210_powercore_embedded_clean.webp",
+          "icon": "icons/w210_powercore_embedded_clean.webp",
           "desc": "",
           "basename": "w210_powercore_embedded_clean",
-          "basepath": "assets/JC3/dlc/mech_land_assault/editor/entities/jc_weapons/04_mounted/w210_powercore/"
+          "basepath": "dlc/mech_land_assault/editor/entities/jc_weapons/04_mounted/w210_powercore/"
         },
         "w210_powercore_infinite_ammo": {
           "name": "W210 Powercore Infinite Ammo",
-          "icon": "assets/JC3/icons/w210_powercore_infinite_ammo.webp",
+          "icon": "icons/w210_powercore_infinite_ammo.webp",
           "desc": "",
           "basename": "w210_powercore_infinite_ammo",
-          "basepath": "assets/JC3/dlc/mech_land_assault/editor/entities/jc_weapons/04_mounted/w210_powercore/"
+          "basepath": "dlc/mech_land_assault/editor/entities/jc_weapons/04_mounted/w210_powercore/"
         },
         "w119_molten_bavarium_spitter2": {
           "name": "W119 Molten Bavarium Spitter",
-          "icon": "assets/JC3/icons/w119_molten_bavarium_spitter.webp",
+          "icon": "icons/w119_molten_bavarium_spitter.webp",
           "desc": "",
           "basename": "w119_molten_bavarium_spitter",
-          "basepath": "assets/JC3/dlc/sky_fortress/editor/entities/jc_weapons/02_two_handed/"
+          "basepath": "dlc/sky_fortress/editor/entities/jc_weapons/02_two_handed/"
         },
         "w119_molten_bavarium_spitter_mag2": {
           "name": "W119 Molten Bavarium Spitter Mag",
-          "icon": "assets/JC3/icons/w119_molten_bavarium_spitter_mag.webp",
+          "icon": "icons/w119_molten_bavarium_spitter_mag.webp",
           "desc": "",
           "basename": "w119_molten_bavarium_spitter_mag",
-          "basepath": "assets/JC3/dlc/sky_fortress/editor/entities/jc_weapons/02_two_handed/"
+          "basepath": "dlc/sky_fortress/editor/entities/jc_weapons/02_two_handed/"
         },
         "w901_scorpiongun": {
           "name": "W901 Scorpiongun",
-          "icon": "assets/JC3/icons/w901_scorpiongun.webp",
+          "icon": "icons/w901_scorpiongun.webp",
           "desc": "",
           "basename": "w901_scorpiongun",
-          "basepath": "assets/JC3/dlc/w901_scorpiongun/editor/entities/jc_weapons/99_dlc/w901_scorpiongun/"
+          "basepath": "dlc/w901_scorpiongun/editor/entities/jc_weapons/99_dlc/w901_scorpiongun/"
         },
         "w131_machine_gun_urga_vdova_89": {
           "name": "W131 Machine Gun Urga Vdova 89",
-          "icon": "assets/JC3/icons/w131_machine_gun_urga_vdova_89.webp",
+          "icon": "icons/w131_machine_gun_urga_vdova_89.webp",
           "desc": "",
           "basename": "w131_machine_gun_urga_vdova_89",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w131_machine_gun_urga_vdova_89/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w131_machine_gun_urga_vdova_89/"
         },
         "w131_machine_gun_urga_vdova_89_mag": {
           "name": "W131 Machine Gun Urga Vdova 89 Mag",
-          "icon": "assets/JC3/icons/w131_machine_gun_urga_vdova_89_mag.webp",
+          "icon": "icons/w131_machine_gun_urga_vdova_89_mag.webp",
           "desc": "",
           "basename": "w131_machine_gun_urga_vdova_89_mag",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w131_machine_gun_urga_vdova_89/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w131_machine_gun_urga_vdova_89/"
         },
         "w132_machine_gun_capstone_a_92": {
           "name": "W132 Machine Gun Capstone A 92",
-          "icon": "assets/JC3/icons/w132_machine_gun_capstone_a_92.webp",
+          "icon": "icons/w132_machine_gun_capstone_a_92.webp",
           "desc": "",
           "basename": "w132_machine_gun_capstone_a_92",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w132_machine_gun_capstone_a_92/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w132_machine_gun_capstone_a_92/"
         },
         "w173_ragnarok": {
           "name": "W173 Ragnarok",
-          "icon": "assets/JC3/icons/w173_ragnarok.webp",
+          "icon": "icons/w173_ragnarok.webp",
           "desc": "",
           "basename": "w173_ragnarok",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w173_ragnarok/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w173_ragnarok/"
         },
         "w176_stupka_210": {
           "name": "W176 Stupka 210",
-          "icon": "assets/JC3/icons/w176_stupka_210.webp",
+          "icon": "icons/w176_stupka_210.webp",
           "desc": "",
           "basename": "w176_stupka_210",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w176_stupka_210/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w176_stupka_210/"
         },
         "w177_typhoon": {
           "name": "W177 Typhoon",
-          "icon": "assets/JC3/icons/w177_typhoon.webp",
+          "icon": "icons/w177_typhoon.webp",
           "desc": "",
           "basename": "w177_typhoon",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w177_typhoon/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w177_typhoon/"
         },
         "w178_balloon": {
           "name": "W178 Balloon",
-          "icon": "assets/JC3/icons/w178_balloon.webp",
+          "icon": "icons/w178_balloon.webp",
           "desc": "",
           "basename": "w178_balloon",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w178_balloon/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w178_balloon/"
         },
         "w179_namaste": {
           "name": "W179 Namaste",
-          "icon": "assets/JC3/icons/w179_namaste.webp",
+          "icon": "icons/w179_namaste.webp",
           "desc": "",
           "basename": "w179_namaste",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w179_namaste/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w179_namaste/"
         },
         "w701_missile_strike": {
           "name": "W701 Missile Strike",
-          "icon": "assets/JC3/icons/w701_missile_strike.webp",
+          "icon": "icons/w701_missile_strike.webp",
           "desc": "",
           "basename": "w701_missile_strike",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w701_missile_strike/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w701_missile_strike/"
         },
         "w701_missile_strike_ai": {
           "name": "W701 Missile Strike Ai",
-          "icon": "assets/JC3/icons/w701_missile_strike_ai.webp",
+          "icon": "icons/w701_missile_strike_ai.webp",
           "desc": "",
           "basename": "w701_missile_strike_ai",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w701_missile_strike/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w701_missile_strike/"
         },
         "w703_sungun": {
           "name": "W703 Sungun",
-          "icon": "assets/JC3/icons/w703_sungun.webp",
+          "icon": "icons/w703_sungun.webp",
           "desc": "",
           "basename": "w703_sungun",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w703_sungun/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w703_sungun/"
         },
         "w704_m488": {
           "name": "W704 M488",
-          "icon": "assets/JC3/icons/w704_m488.webp",
+          "icon": "icons/w704_m488.webp",
           "desc": "",
           "basename": "w704_m488",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w704_m488/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w704_m488/"
         },
         "w302_beacon": {
           "name": "W302 Beacon",
-          "icon": "assets/JC3/icons/w302_beacon.webp",
+          "icon": "icons/w302_beacon.webp",
           "desc": "",
           "basename": "w302_beacon",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/03_thrown/w302_beacon/"
+          "basepath": "editor/entities/jc_weapons/03_thrown/w302_beacon/"
         },
         "w205_mounted_urga_uzhas_120": {
           "name": "W205 Mounted Urga Uzhas 120",
-          "icon": "assets/JC3/icons/w205_mounted_urga_uzhas_120.webp",
+          "icon": "icons/w205_mounted_urga_uzhas_120.webp",
           "desc": "",
           "basename": "w205_mounted_urga_uzhas_120",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/04_mounted/w205_mounted_urga_uzhas_120/"
+          "basepath": "editor/entities/jc_weapons/04_mounted/w205_mounted_urga_uzhas_120/"
         },
         "w205_mounted_urga_uzhas_120_mount": {
           "name": "W205 Mounted Urga Uzhas 120 Mount",
-          "icon": "assets/JC3/icons/w205_mounted_urga_uzhas_120_mount.webp",
+          "icon": "icons/w205_mounted_urga_uzhas_120_mount.webp",
           "desc": "",
           "basename": "w205_mounted_urga_uzhas_120_mount",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/04_mounted/w205_mounted_urga_uzhas_120/"
+          "basepath": "editor/entities/jc_weapons/04_mounted/w205_mounted_urga_uzhas_120/"
         },
         "w206_mounted_capstone_m2hm": {
           "name": "W206 Mounted Capstone M2hm",
-          "icon": "assets/JC3/icons/w206_mounted_capstone_m2hm.webp",
+          "icon": "icons/w206_mounted_capstone_m2hm.webp",
           "desc": "",
           "basename": "w206_mounted_capstone_m2hm",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/04_mounted/w206_mounted_capstone_m2hm/"
+          "basepath": "editor/entities/jc_weapons/04_mounted/w206_mounted_capstone_m2hm/"
         },
         "w608_fighterjet_missile": {
           "name": "W608 Fighterjet Missile",
-          "icon": "assets/JC3/icons/w608_fighterjet_missile.webp",
+          "icon": "icons/w608_fighterjet_missile.webp",
           "desc": "",
           "basename": "w608_fighterjet_missile",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/06_vehicle/w608_fighterjet_missile/"
+          "basepath": "editor/entities/jc_weapons/06_vehicle/w608_fighterjet_missile/"
         },
         "w609_fighterjet_missile_air_lockon": {
           "name": "W609 Fighterjet Missile Air Lockon",
-          "icon": "assets/JC3/icons/w609_fighterjet_missile_air_lockon.webp",
+          "icon": "icons/w609_fighterjet_missile_air_lockon.webp",
           "desc": "",
           "basename": "w609_fighterjet_missile_air_lockon",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/06_vehicle/w609_fighterjet_missile_air_lockon/"
+          "basepath": "editor/entities/jc_weapons/06_vehicle/w609_fighterjet_missile_air_lockon/"
         },
         "w610_fighterjet_mgun": {
           "name": "W610 Fighterjet Mgun",
-          "icon": "assets/JC3/icons/w610_fighterjet_mgun.webp",
+          "icon": "icons/w610_fighterjet_mgun.webp",
           "desc": "",
           "basename": "w610_fighterjet_mgun",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/06_vehicle/w610_fighterjet_mgun/"
+          "basepath": "editor/entities/jc_weapons/06_vehicle/w610_fighterjet_mgun/"
         },
         "w611_fighterbomber_missile": {
           "name": "W611 Fighterbomber Missile",
-          "icon": "assets/JC3/icons/w611_fighterbomber_missile.webp",
+          "icon": "icons/w611_fighterbomber_missile.webp",
           "desc": "",
           "basename": "w611_fighterbomber_missile",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/06_vehicle/w611_fighterbomber_missile/"
+          "basepath": "editor/entities/jc_weapons/06_vehicle/w611_fighterbomber_missile/"
         },
         "w612_fighterbomber_missile_air_lockon": {
           "name": "W612 Fighterbomber Missile Air Lockon",
-          "icon": "assets/JC3/icons/w612_fighterbomber_missile_air_lockon.webp",
+          "icon": "icons/w612_fighterbomber_missile_air_lockon.webp",
           "desc": "",
           "basename": "w612_fighterbomber_missile_air_lockon",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/06_vehicle/w612_fighterbomber_missile_air_lockon/"
+          "basepath": "editor/entities/jc_weapons/06_vehicle/w612_fighterbomber_missile_air_lockon/"
         },
         "w613_fighterbomber_missile_ground_lockon": {
           "name": "W613 Fighterbomber Missile Ground Lockon",
-          "icon": "assets/JC3/icons/w613_fighterbomber_missile_ground_lockon.webp",
+          "icon": "icons/w613_fighterbomber_missile_ground_lockon.webp",
           "desc": "",
           "basename": "w613_fighterbomber_missile_ground_lockon",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/06_vehicle/w613_fighterbomber_missile_ground_lockon/"
+          "basepath": "editor/entities/jc_weapons/06_vehicle/w613_fighterbomber_missile_ground_lockon/"
         },
         "w615_helicopter_heavy_missile": {
           "name": "W615 Helicopter Heavy Missile",
-          "icon": "assets/JC3/icons/w615_helicopter_heavy_missile.webp",
+          "icon": "icons/w615_helicopter_heavy_missile.webp",
           "desc": "",
           "basename": "w615_helicopter_heavy_missile",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/06_vehicle/w615_helicopter_heavy_missile/"
+          "basepath": "editor/entities/jc_weapons/06_vehicle/w615_helicopter_heavy_missile/"
         },
         "w616_corvette_canon": {
           "name": "W616 Corvette Canon",
-          "icon": "assets/JC3/icons/w616_corvette_canon.webp",
+          "icon": "icons/w616_corvette_canon.webp",
           "desc": "",
           "basename": "w616_corvette_canon",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/06_vehicle/w616_corvette_canon/"
+          "basepath": "editor/entities/jc_weapons/06_vehicle/w616_corvette_canon/"
         },
         "w617_vintagefighter_mgun": {
           "name": "W617 Vintagefighter Mgun",
-          "icon": "assets/JC3/icons/w617_vintagefighter_mgun.webp",
+          "icon": "icons/w617_vintagefighter_mgun.webp",
           "desc": "",
           "basename": "w617_vintagefighter_mgun",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/06_vehicle/w617_vintagefighter_mgun/"
+          "basepath": "editor/entities/jc_weapons/06_vehicle/w617_vintagefighter_mgun/"
         },
         "w618_sportsmuscle_missile": {
           "name": "W618 Sportsmuscle Missile",
-          "icon": "assets/JC3/icons/w618_sportsmuscle_missile.webp",
+          "icon": "icons/w618_sportsmuscle_missile.webp",
           "desc": "",
           "basename": "w618_sportsmuscle_missile",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/06_vehicle/w618_sportsmuscle_missile/"
+          "basepath": "editor/entities/jc_weapons/06_vehicle/w618_sportsmuscle_missile/"
         },
         "w619_buggy_mgun": {
           "name": "W619 Buggy Mgun",
-          "icon": "assets/JC3/icons/w619_buggy_mgun.webp",
+          "icon": "icons/w619_buggy_mgun.webp",
           "desc": "",
           "basename": "w619_buggy_mgun",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/06_vehicle/w619_buggy_mgun/"
+          "basepath": "editor/entities/jc_weapons/06_vehicle/w619_buggy_mgun/"
         },
         "w620_racingboat_mgun": {
           "name": "W620 Racingboat Mgun",
-          "icon": "assets/JC3/icons/w620_racingboat_mgun.webp",
+          "icon": "icons/w620_racingboat_mgun.webp",
           "desc": "",
           "basename": "w620_racingboat_mgun",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/06_vehicle/w620_racingboat_mgun/"
+          "basepath": "editor/entities/jc_weapons/06_vehicle/w620_racingboat_mgun/"
         },
         "w621_advancedhelicopter_missile": {
           "name": "W621 Advancedhelicopter Missile",
-          "icon": "assets/JC3/icons/w621_advancedhelicopter_missile.webp",
+          "icon": "icons/w621_advancedhelicopter_missile.webp",
           "desc": "",
           "basename": "w621_advancedhelicopter_missile",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/06_vehicle/w621_advancedhelicopter_missile/"
+          "basepath": "editor/entities/jc_weapons/06_vehicle/w621_advancedhelicopter_missile/"
         },
         "w622_advancedhelicopter_mgun": {
           "name": "W622 Advancedhelicopter Mgun",
-          "icon": "assets/JC3/icons/w622_advancedhelicopter_mgun.webp",
+          "icon": "icons/w622_advancedhelicopter_mgun.webp",
           "desc": "",
           "basename": "w622_advancedhelicopter_mgun",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/06_vehicle/w622_advancedhelicopter_mgun/"
+          "basepath": "editor/entities/jc_weapons/06_vehicle/w622_advancedhelicopter_mgun/"
         },
         "w999_dlc_testgun": {
           "name": "W999 Dlc Testgun",
-          "icon": "assets/JC3/icons/w999_dlc_testgun.webp",
+          "icon": "icons/w999_dlc_testgun.webp",
           "desc": "",
           "basename": "w999_dlc_testgun",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/99_dlc/w999_dlc_testgun/"
+          "basepath": "editor/entities/jc_weapons/99_dlc/w999_dlc_testgun/"
         }
       }
     },
     "rocket_launcher": {
-      "icon": "assets/JC3/rocket_launcher/icon.png",
+      "icon": "rocket_launcher/icon.png",
       "content": {
         "w505_sam_eden_heavycontroldrone_norockets": {
           "name": "W505 Sam Eden Heavycontroldrone Norockets",
-          "icon": "assets/JC3/icons/w505_sam_eden_heavycontroldrone_norockets.webp",
+          "icon": "icons/w505_sam_eden_heavycontroldrone_norockets.webp",
           "desc": "",
           "basename": "w505_sam_eden_heavycontroldrone_norockets",
-          "basepath": "assets/JC3/dlc/mech_land_assault/editor/entities/jc_weapons/05_stationary/w505_sam_eden_heavycontroldrone/"
+          "basepath": "dlc/mech_land_assault/editor/entities/jc_weapons/05_stationary/w505_sam_eden_heavycontroldrone/"
         },
         "w505_sam_eden_heavycontroldrone_norockets2": {
           "name": "W505 Sam Eden Heavycontroldrone Norockets",
-          "icon": "assets/JC3/icons/w505_sam_eden_heavycontroldrone_norockets.webp",
+          "icon": "icons/w505_sam_eden_heavycontroldrone_norockets.webp",
           "desc": "",
           "basename": "w505_sam_eden_heavycontroldrone_norockets",
-          "basepath": "assets/JC3/dlc/sky_fortress/editor/entities/jc_weapons/05_stationary/w505_sam_eden_heavycontroldrone/"
+          "basepath": "dlc/sky_fortress/editor/entities/jc_weapons/05_stationary/w505_sam_eden_heavycontroldrone/"
         },
         "w141_rpg_uvk_13": {
           "name": "W141 Rpg Uvk 13",
-          "icon": "assets/JC3/icons/w141_rpg_uvk_13.webp",
+          "icon": "icons/w141_rpg_uvk_13.webp",
           "desc": "",
           "basename": "w141_rpg_uvk_13",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w141_rpg_uvk_13/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w141_rpg_uvk_13/"
         },
         "w141_rpg_uvk_13_mm110": {
           "name": "W141 Rpg Uvk 13 Mm110",
-          "icon": "assets/JC3/icons/w141_rpg_uvk_13_mm110.webp",
+          "icon": "icons/w141_rpg_uvk_13_mm110.webp",
           "desc": "",
           "basename": "w141_rpg_uvk_13_mm110",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w141_rpg_uvk_13/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w141_rpg_uvk_13/"
         },
         "w142_rpg_capstone_bloodhound": {
           "name": "W142 Rpg Capstone Bloodhound",
-          "icon": "assets/JC3/icons/w142_rpg_capstone_bloodhound.webp",
+          "icon": "icons/w142_rpg_capstone_bloodhound.webp",
           "desc": "",
           "basename": "w142_rpg_capstone_bloodhound",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w142_rpg_capstone_bloodhound/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w142_rpg_capstone_bloodhound/"
         },
         "w143_rpg_fire_leach": {
           "name": "W143 Rpg Fire Leach",
-          "icon": "assets/JC3/icons/w143_rpg_fire_leach.webp",
+          "icon": "icons/w143_rpg_fire_leach.webp",
           "desc": "",
           "basename": "w143_rpg_fire_leach",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w143_rpg_fire_leach/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w143_rpg_fire_leach/"
         },
         "w144_rpg_capstone_hydra": {
           "name": "W144 Rpg Capstone Hydra",
-          "icon": "assets/JC3/icons/w144_rpg_capstone_hydra.webp",
+          "icon": "icons/w144_rpg_capstone_hydra.webp",
           "desc": "",
           "basename": "w144_rpg_capstone_hydra",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w144_rpg_capstone_hydra/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w144_rpg_capstone_hydra/"
         },
         "w144_rpg_capstone_hydra_mag": {
           "name": "W144 Rpg Capstone Hydra Mag",
-          "icon": "assets/JC3/icons/w144_rpg_capstone_hydra_mag.webp",
+          "icon": "icons/w144_rpg_capstone_hydra_mag.webp",
           "desc": "",
           "basename": "w144_rpg_capstone_hydra_mag",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w144_rpg_capstone_hydra/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w144_rpg_capstone_hydra/"
         },
         "w146_rpg_javelin": {
           "name": "W146 Rpg Javelin",
-          "icon": "assets/JC3/icons/w146_rpg_javelin.webp",
+          "icon": "icons/w146_rpg_javelin.webp",
           "desc": "",
           "basename": "w146_rpg_javelin",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w146_rpg_javelin/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w146_rpg_javelin/"
         },
         "w147_rpg_guitar_case": {
           "name": "W147 Rpg Guitar Case",
-          "icon": "assets/JC3/icons/w147_rpg_guitar_case.webp",
+          "icon": "icons/w147_rpg_guitar_case.webp",
           "desc": "",
           "basename": "w147_rpg_guitar_case",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w147_rpg_guitar_case/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w147_rpg_guitar_case/"
         }
       }
     },
     "pistol": {
-      "icon": "assets/JC3/pistol/icon.png",
+      "icon": "pistol/icon.png",
       "content": {
         "w011_pistol_u_pozhar_98": {
           "name": "W011 Pistol U Pozhar 98",
-          "icon": "assets/JC3/icons/w011_pistol_u_pozhar_98.webp",
+          "icon": "icons/w011_pistol_u_pozhar_98.webp",
           "desc": "",
           "basename": "w011_pistol_u_pozhar_98",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/01_one_handed/w011_pistol_u_pozhar_98/"
+          "basepath": "editor/entities/jc_weapons/01_one_handed/w011_pistol_u_pozhar_98/"
         },
         "w011_pistol_u_pozhar_98_mag": {
           "name": "W011 Pistol U Pozhar 98 Mag",
-          "icon": "assets/JC3/icons/w011_pistol_u_pozhar_98_mag.webp",
+          "icon": "icons/w011_pistol_u_pozhar_98_mag.webp",
           "desc": "",
           "basename": "w011_pistol_u_pozhar_98_mag",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/01_one_handed/w011_pistol_u_pozhar_98/"
+          "basepath": "editor/entities/jc_weapons/01_one_handed/w011_pistol_u_pozhar_98/"
         },
         "w012_pistol_cs_spectre_mark_v": {
           "name": "W012 Pistol Cs Spectre Mark V",
-          "icon": "assets/JC3/icons/w012_pistol_cs_spectre_mark_v.webp",
+          "icon": "icons/w012_pistol_cs_spectre_mark_v.webp",
           "desc": "",
           "basename": "w012_pistol_cs_spectre_mark_v",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/01_one_handed/w012_pistol_cs_spectre_mark_v/"
+          "basepath": "editor/entities/jc_weapons/01_one_handed/w012_pistol_cs_spectre_mark_v/"
         },
         "w012_pistol_cs_spectre_mark_v_mag": {
           "name": "W012 Pistol Cs Spectre Mark V Mag",
-          "icon": "assets/JC3/icons/w012_pistol_cs_spectre_mark_v_mag.webp",
+          "icon": "icons/w012_pistol_cs_spectre_mark_v_mag.webp",
           "desc": "",
           "basename": "w012_pistol_cs_spectre_mark_v_mag",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/01_one_handed/w012_pistol_cs_spectre_mark_v/"
+          "basepath": "editor/entities/jc_weapons/01_one_handed/w012_pistol_cs_spectre_mark_v/"
         },
         "w013_pistol_balloon_head": {
           "name": "W013 Pistol Balloon Head",
-          "icon": "assets/JC3/icons/w013_pistol_balloon_head.webp",
+          "icon": "icons/w013_pistol_balloon_head.webp",
           "desc": "",
           "basename": "w013_pistol_balloon_head",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/01_one_handed/w013_pistol_balloon_head/"
+          "basepath": "editor/entities/jc_weapons/01_one_handed/w013_pistol_balloon_head/"
         },
         "w014_handgun_little_general": {
           "name": "W014 Handgun Little General",
-          "icon": "assets/JC3/icons/w014_handgun_little_general.webp",
+          "icon": "icons/w014_handgun_little_general.webp",
           "desc": "",
           "basename": "w014_handgun_little_general",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/01_one_handed/w014_handgun_little_general/"
+          "basepath": "editor/entities/jc_weapons/01_one_handed/w014_handgun_little_general/"
         },
         "w021_handgun_peacekeeper": {
           "name": "W021 Handgun Peacekeeper",
-          "icon": "assets/JC3/icons/w021_handgun_peacekeeper.webp",
+          "icon": "icons/w021_handgun_peacekeeper.webp",
           "desc": "",
           "basename": "w021_handgun_peacekeeper",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/01_one_handed/w021_handgun_peacekeeper/"
+          "basepath": "editor/entities/jc_weapons/01_one_handed/w021_handgun_peacekeeper/"
         }
       }
     },
     "smg": {
-      "icon": "assets/JC3/smg/icon.png",
+      "icon": "smg/icon.png",
       "content": {
         "w031_smg_prizrak_u4": {
           "name": "W031 Smg Prizrak U4",
-          "icon": "assets/JC3/icons/w031_smg_prizrak_u4.webp",
+          "icon": "icons/w031_smg_prizrak_u4.webp",
           "desc": "",
           "basename": "w031_smg_prizrak_u4",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/01_one_handed/w031_smg_prizrak_u4/"
+          "basepath": "editor/entities/jc_weapons/01_one_handed/w031_smg_prizrak_u4/"
         },
         "w031_smg_prizrak_u4_mag": {
           "name": "W031 Smg Prizrak U4 Mag",
-          "icon": "assets/JC3/icons/w031_smg_prizrak_u4_mag.webp",
+          "icon": "icons/w031_smg_prizrak_u4_mag.webp",
           "desc": "",
           "basename": "w031_smg_prizrak_u4_mag",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/01_one_handed/w031_smg_prizrak_u4/"
+          "basepath": "editor/entities/jc_weapons/01_one_handed/w031_smg_prizrak_u4/"
         },
         "w032_smg_cs_wraith_2000": {
           "name": "W032 Smg Cs Wraith 2000",
-          "icon": "assets/JC3/icons/w032_smg_cs_wraith_2000.webp",
+          "icon": "icons/w032_smg_cs_wraith_2000.webp",
           "desc": "",
           "basename": "w032_smg_cs_wraith_2000",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/01_one_handed/w032_smg_cs_wraith_2000/"
+          "basepath": "editor/entities/jc_weapons/01_one_handed/w032_smg_cs_wraith_2000/"
         },
         "w032_smg_cs_wraith_2000_mag": {
           "name": "W032 Smg Cs Wraith 2000 Mag",
-          "icon": "assets/JC3/icons/w032_smg_cs_wraith_2000_mag.webp",
+          "icon": "icons/w032_smg_cs_wraith_2000_mag.webp",
           "desc": "",
           "basename": "w032_smg_cs_wraith_2000_mag",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/01_one_handed/w032_smg_cs_wraith_2000/"
+          "basepath": "editor/entities/jc_weapons/01_one_handed/w032_smg_cs_wraith_2000/"
         },
         "w033_smg_cs_9": {
           "name": "W033 Smg Cs 9",
-          "icon": "assets/JC3/icons/w033_smg_cs_9.webp",
+          "icon": "icons/w033_smg_cs_9.webp",
           "desc": "",
           "basename": "w033_smg_cs_9",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/01_one_handed/w033_smg_cs_9/"
+          "basepath": "editor/entities/jc_weapons/01_one_handed/w033_smg_cs_9/"
         }
       }
     },
     "shotgun": {
-      "icon": "assets/JC3/shotgun/icon.png",
+      "icon": "shotgun/icon.png",
       "content": {
         "w155_shotgun_u_rys_12": {
           "name": "W155 Shotgun U Rys 12",
-          "icon": "assets/JC3/icons/w155_shotgun_u_rys_12.webp",
+          "icon": "icons/w155_shotgun_u_rys_12.webp",
           "desc": "",
           "basename": "w155_shotgun_u_rys_12",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/01_one_handed/w155_shotgun_u_rys_12/"
+          "basepath": "editor/entities/jc_weapons/01_one_handed/w155_shotgun_u_rys_12/"
         },
         "w151_shotgun_u_rys_96": {
           "name": "W151 Shotgun U Rys 96",
-          "icon": "assets/JC3/icons/w151_shotgun_u_rys_96.webp",
+          "icon": "icons/w151_shotgun_u_rys_96.webp",
           "desc": "",
           "basename": "w151_shotgun_u_rys_96",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w151_shotgun_u_rys_96/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w151_shotgun_u_rys_96/"
         },
         "w153_shotgun_automat_12": {
           "name": "W153 Shotgun Automat 12",
-          "icon": "assets/JC3/icons/w153_shotgun_automat_12.webp",
+          "icon": "icons/w153_shotgun_automat_12.webp",
           "desc": "",
           "basename": "w153_shotgun_automat_12",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w153_shotgun_automat_12/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w153_shotgun_automat_12/"
         }
       }
     },
     "assault_rifle": {
-      "icon": "assets/JC3/assault_rifle/icon.png",
+      "icon": "assault_rifle/icon.png",
       "content": {
         "w111_assault_rifle_up_39": {
           "name": "W111 Assault Rifle Up 39",
-          "icon": "assets/JC3/icons/w111_assault_rifle_up_39.webp",
+          "icon": "icons/w111_assault_rifle_up_39.webp",
           "desc": "",
           "basename": "w111_assault_rifle_up_39",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w111_assault_rifle_up_39/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w111_assault_rifle_up_39/"
         },
         "w111_assault_rifle_up_39_mag": {
           "name": "W111 Assault Rifle Up 39 Mag",
-          "icon": "assets/JC3/icons/w111_assault_rifle_up_39_mag.webp",
+          "icon": "icons/w111_assault_rifle_up_39_mag.webp",
           "desc": "",
           "basename": "w111_assault_rifle_up_39_mag",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w111_assault_rifle_up_39/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w111_assault_rifle_up_39/"
         },
         "w112_assault_rifle_cs_predator": {
           "name": "W112 Assault Rifle Cs Predator",
-          "icon": "assets/JC3/icons/w112_assault_rifle_cs_predator.webp",
+          "icon": "icons/w112_assault_rifle_cs_predator.webp",
           "desc": "",
           "basename": "w112_assault_rifle_cs_predator",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w112_assault_rifle_cs_predator/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w112_assault_rifle_cs_predator/"
         },
         "w112_assault_rifle_cs_predator_mag": {
           "name": "W112 Assault Rifle Cs Predator Mag",
-          "icon": "assets/JC3/icons/w112_assault_rifle_cs_predator_mag.webp",
+          "icon": "icons/w112_assault_rifle_cs_predator_mag.webp",
           "desc": "",
           "basename": "w112_assault_rifle_cs_predator_mag",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w112_assault_rifle_cs_predator/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w112_assault_rifle_cs_predator/"
         },
         "w117_assault_rifle_csv": {
           "name": "W117 Assault Rifle Csv",
-          "icon": "assets/JC3/icons/w117_assault_rifle_csv.webp",
+          "icon": "icons/w117_assault_rifle_csv.webp",
           "desc": "",
           "basename": "w117_assault_rifle_csv",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w117_assault_rifle_csv/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w117_assault_rifle_csv/"
         },
         "w117_assault_rifle_csv_mag": {
           "name": "W117 Assault Rifle Csv Mag",
-          "icon": "assets/JC3/icons/w117_assault_rifle_csv_mag.webp",
+          "icon": "icons/w117_assault_rifle_csv_mag.webp",
           "desc": "",
           "basename": "w117_assault_rifle_csv_mag",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w117_assault_rifle_csv/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w117_assault_rifle_csv/"
         },
         "w118_assault_rifle_up_61": {
           "name": "W118 Assault Rifle Up 61",
-          "icon": "assets/JC3/icons/w118_assault_rifle_up_61.webp",
+          "icon": "icons/w118_assault_rifle_up_61.webp",
           "desc": "",
           "basename": "w118_assault_rifle_up_61",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w118_assault_rifle_up_61/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w118_assault_rifle_up_61/"
         },
         "w118_assault_rifle_up_61_mag": {
           "name": "W118 Assault Rifle Up 61 Mag",
-          "icon": "assets/JC3/icons/w118_assault_rifle_up_61_mag.webp",
+          "icon": "icons/w118_assault_rifle_up_61_mag.webp",
           "desc": "",
           "basename": "w118_assault_rifle_up_61_mag",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w118_assault_rifle_up_61/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w118_assault_rifle_up_61/"
         }
       }
     },
     "grenade": {
-      "icon": "assets/JC3/grenade/icon.png",
+      "icon": "grenade/icon.png",
       "content": {
         "w121_grenade_launcher_cs_bildt_negotiator_mag": {
           "name": "W121 Grenade Launcher Cs Bildt Negotiator Mag",
-          "icon": "assets/JC3/icons/w121_grenade_launcher_cs_bildt_negotiator_mag.webp",
+          "icon": "icons/w121_grenade_launcher_cs_bildt_negotiator_mag.webp",
           "desc": "",
           "basename": "w121_grenade_launcher_cs_bildt_negotiator_mag",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w121_grenade_launcher_cs_bildt_negotiator/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w121_grenade_launcher_cs_bildt_negotiator/"
         },
         "w123_grenade_launcher_upu_210": {
           "name": "W123 Grenade Launcher Upu 210",
-          "icon": "assets/JC3/icons/w123_grenade_launcher_upu_210.webp",
+          "icon": "icons/w123_grenade_launcher_upu_210.webp",
           "desc": "",
           "basename": "w123_grenade_launcher_upu_210",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w123_grenade_launcher_upu_210/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w123_grenade_launcher_upu_210/"
         },
         "w123_grenade_launcher_upu_210_mag": {
           "name": "W123 Grenade Launcher Upu 210 Mag",
-          "icon": "assets/JC3/icons/w123_grenade_launcher_upu_210_mag.webp",
+          "icon": "icons/w123_grenade_launcher_upu_210_mag.webp",
           "desc": "",
           "basename": "w123_grenade_launcher_upu_210_mag",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w123_grenade_launcher_upu_210/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w123_grenade_launcher_upu_210/"
         },
         "w301_grenade": {
           "name": "W301 Grenade",
-          "icon": "assets/JC3/icons/w301_grenade.webp",
+          "icon": "icons/w301_grenade.webp",
           "desc": "",
           "basename": "w301_grenade",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/03_thrown/w301_grenade/"
+          "basepath": "editor/entities/jc_weapons/03_thrown/w301_grenade/"
         },
         "w401_explosives_c4": {
           "name": "W401 Explosives C4",
-          "icon": "assets/JC3/icons/w401_explosives_c4.webp",
+          "icon": "icons/w401_explosives_c4.webp",
           "desc": "",
           "basename": "w401_explosives_c4",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/03_thrown/w401_explosives_c4/"
+          "basepath": "editor/entities/jc_weapons/03_thrown/w401_explosives_c4/"
         }
       }
     },
     "sniper": {
-      "icon": "assets/JC3/sniper/icon.png",
+      "icon": "sniper/icon.png",
       "content": {
         "w161_sniper_rifle_u_sv_45": {
           "name": "W161 Sniper Rifle U Sv 45",
-          "icon": "assets/JC3/icons/w161_sniper_rifle_u_sv_45.webp",
+          "icon": "icons/w161_sniper_rifle_u_sv_45.webp",
           "desc": "",
           "basename": "w161_sniper_rifle_u_sv_45",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w161_sniper_rifle_u_sv_45/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w161_sniper_rifle_u_sv_45/"
         },
         "w161_sniper_rifle_u_sv_45_mag": {
           "name": "W161 Sniper Rifle U Sv 45 Mag",
-          "icon": "assets/JC3/icons/w161_sniper_rifle_u_sv_45_mag.webp",
+          "icon": "icons/w161_sniper_rifle_u_sv_45_mag.webp",
           "desc": "",
           "basename": "w161_sniper_rifle_u_sv_45_mag",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w161_sniper_rifle_u_sv_45/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w161_sniper_rifle_u_sv_45/"
         },
         "w162_sniper_rifle_cs111_archangel": {
           "name": "W162 Sniper Rifle Cs111 Archangel",
-          "icon": "assets/JC3/icons/w162_sniper_rifle_cs111_archangel.webp",
+          "icon": "icons/w162_sniper_rifle_cs111_archangel.webp",
           "desc": "",
           "basename": "w162_sniper_rifle_cs111_archangel",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w162_sniper_rifle_cs111_archangel/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w162_sniper_rifle_cs111_archangel/"
         },
         "w162_sniper_rifle_cs111_archangel_mag": {
           "name": "W162 Sniper Rifle Cs111 Archangel Mag",
-          "icon": "assets/JC3/icons/w162_sniper_rifle_cs111_archangel_mag.webp",
+          "icon": "icons/w162_sniper_rifle_cs111_archangel_mag.webp",
           "desc": "",
           "basename": "w162_sniper_rifle_cs111_archangel_mag",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w162_sniper_rifle_cs111_archangel/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w162_sniper_rifle_cs111_archangel/"
         },
         "w163_sniper_rifle_final_argument": {
           "name": "W163 Sniper Rifle Final Argument",
-          "icon": "assets/JC3/icons/w163_sniper_rifle_final_argument.webp",
+          "icon": "icons/w163_sniper_rifle_final_argument.webp",
           "desc": "",
           "basename": "w163_sniper_rifle_final_argument",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w163_sniper_rifle_final_argument/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w163_sniper_rifle_final_argument/"
         },
         "w163_sniper_rifle_final_argument_mag": {
           "name": "W163 Sniper Rifle Final Argument Mag",
-          "icon": "assets/JC3/icons/w163_sniper_rifle_final_argument_mag.webp",
+          "icon": "icons/w163_sniper_rifle_final_argument_mag.webp",
           "desc": "",
           "basename": "w163_sniper_rifle_final_argument_mag",
-          "basepath": "assets/JC3/editor/entities/jc_weapons/02_two_handed/w163_sniper_rifle_final_argument/"
+          "basepath": "editor/entities/jc_weapons/02_two_handed/w163_sniper_rifle_final_argument/"
         }
       }
     }
