@@ -113,46 +113,6 @@
         }
       }
     },
-    "unknown": {
-      "icon": "assets/JC3/unknown/icon.png",
-      "content": {
-        "v0805_car_na_mech_civilian": {
-          "name": "v0805_car_na_mech_civilian",
-          "icon": "assets/JC3/icons/v0805_car_na_mech.webp",
-          "desc": "",
-          "basename": "v0805_car_na_mech",
-          "basepath": "assets/JC3/dlc/mech_land_assault/editor/entities/jc_vehicles/01_land/"
-        },
-        "v5601_train_urga_monorailcargoengine_military_04": {
-          "name": "v5601_train_urga_monorailcargoengine_military_04",
-          "icon": "assets/JC3/icons/v5601_train_urga_monorailcargoengine.webp",
-          "desc": "",
-          "basename": "v5601_train_urga_monorailcargoengine",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
-        },
-        "v5602_train_urga_monorailflatbed_military_containers": {
-          "name": "v5602_train_urga_monorailflatbed_military_containers",
-          "icon": "assets/JC3/icons/v5602_train_urga_monorailflatbed.webp",
-          "desc": "",
-          "basename": "v5602_train_urga_monorailflatbed",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
-        },
-        "v5603_train_urga_monorailmissilecar_military_01": {
-          "name": "v5603_train_urga_monorailmissilecar_military_01",
-          "icon": "assets/JC3/icons/v5603_train_urga_monorailmissilecar.webp",
-          "desc": "",
-          "basename": "v5603_train_urga_monorailmissilecar",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
-        },
-        "v0505_car_solar_oldtruck_rebel_emp_custom_mm250": {
-          "name": "v0505_car_solar_oldtruck_rebel_emp_custom_mm250",
-          "icon": "assets/JC3/icons/v0505_car_solar_oldtruck.webp",
-          "desc": "",
-          "basename": "v0505_car_solar_oldtruck",
-          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
-        }
-      }
-    },
     "bike": {
       "icon": "assets/JC3/bike/icon.png",
       "content": {
@@ -363,6 +323,41 @@
           "icon": "assets/JC3/icons/v0866_car_na_ladbil.webp",
           "desc": "",
           "basename": "v0866_car_na_ladbil",
+          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+        },
+        "v0805_car_na_mech_civilian": {
+          "name": "v0805_car_na_mech_civilian",
+          "icon": "assets/JC3/icons/v0805_car_na_mech.webp",
+          "desc": "",
+          "basename": "v0805_car_na_mech",
+          "basepath": "assets/JC3/dlc/mech_land_assault/editor/entities/jc_vehicles/01_land/"
+        },
+        "v5601_train_urga_monorailcargoengine_military_04": {
+          "name": "v5601_train_urga_monorailcargoengine_military_04",
+          "icon": "assets/JC3/icons/v5601_train_urga_monorailcargoengine.webp",
+          "desc": "",
+          "basename": "v5601_train_urga_monorailcargoengine",
+          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+        },
+        "v5602_train_urga_monorailflatbed_military_containers": {
+          "name": "v5602_train_urga_monorailflatbed_military_containers",
+          "icon": "assets/JC3/icons/v5602_train_urga_monorailflatbed.webp",
+          "desc": "",
+          "basename": "v5602_train_urga_monorailflatbed",
+          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+        },
+        "v5603_train_urga_monorailmissilecar_military_01": {
+          "name": "v5603_train_urga_monorailmissilecar_military_01",
+          "icon": "assets/JC3/icons/v5603_train_urga_monorailmissilecar.webp",
+          "desc": "",
+          "basename": "v5603_train_urga_monorailmissilecar",
+          "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
+        },
+        "v0505_car_solar_oldtruck_rebel_emp_custom_mm250": {
+          "name": "v0505_car_solar_oldtruck_rebel_emp_custom_mm250",
+          "icon": "assets/JC3/icons/v0505_car_solar_oldtruck.webp",
+          "desc": "",
+          "basename": "v0505_car_solar_oldtruck",
           "basepath": "assets/JC3/editor/entities/jc_vehicles/01_land/"
         }
       }
